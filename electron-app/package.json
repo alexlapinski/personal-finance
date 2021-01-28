@@ -19,7 +19,7 @@
   "homepage": "https://github.com/alexlapinski/personal-finance#readme",
   "dependencies": {
     "config": "^1.26.2",
-    "electron": "^4.1.1",
+    "electron": "^9.4.0",
     "plaid": "^3.0.0"
   },
   "devDependencies": {}
